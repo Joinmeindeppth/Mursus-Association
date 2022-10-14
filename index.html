@@ -7,8 +7,14 @@
   <style>
    body {
     background: #191970 url(https://github.com/Joinmeindeppth/Mursus-Association/blob/main/photo_2022-10-14_19-07-37.jpg?raw=true); /* Цвет фона и путь к файлу */
+     no-repeat;
+    -moz-background-size: 100%; /* Firefox 3.6+ */
+    -webkit-background-size: 100%; /* Safari 3.1+ и Chrome 4.0+ */
+    -o-background-size: 100%; /* Opera 9.6+ */
+    background-size: 100%; /* Современные браузеры */
     color: #DCDCDC ; /* Цвет текста */
    }
+    
   </style>
 </head>
 <body>
@@ -18,7 +24,8 @@
     <h3>Our Association is the best way to enjoy your life on a coast.</h3></p>
     <p>Some text about Mursus</p>
     <h2>Mursu Resources</h2>
-    <nav role="navigation" aria-label="main menu">
+
+    <nav role="navigation" aria-label="main menu"  {color: #DCDCDC ;}>
     <ul class="navbar">
     	<li><a href="sauna-association">Sauna Association</a></li>
     	<li><a href="knight-bus">Knight Bus for Lost Mursus</a></li>
