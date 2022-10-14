@@ -6,11 +6,13 @@ h1 {
 }
 
 ul {
-  color: (239,241,245); font-size: 40px;
+  color: (239,241,245);
+  font-size: 40px;
 }
 
 body {
-  font: Garamond (serif); font-size: 30px
+  font-family: Garamond, serif;
+  font-size: 30px
 }
 
 ul.nav a {
