@@ -21,8 +21,16 @@ ul.nav a {
 
 navbar {
   color: #EFF1F5;
+  font-family: Garamond, serif;
+  font-size: 30px
 }
 
 p {
     font-size: 25px;
+}
+
+nav {
+  color: #EFF1F5;
+  font-family: Garamond, serif;
+  font-size: 30px
 }
