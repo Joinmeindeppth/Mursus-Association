@@ -1,4 +1,21 @@
-ul {color: (239,241,245); font-size: 40px;}
-body {font: Garamond (serif); font-size: 30px}
-ul.nav a{color: #EFF1F5 !important;}
-navbar {color: #EFF1F5;}
+h1 {
+  color: #EFF1F5;
+  background-color: ;
+  border: 1px solid black;
+}
+
+ul {
+  color: (239,241,245); font-size: 40px;
+}
+
+body {
+  font: Garamond (serif); font-size: 30px
+}
+
+ul.nav a {
+  color: #EFF1F5 !important;
+}
+
+navbar {
+  color: #EFF1F5;
+}
