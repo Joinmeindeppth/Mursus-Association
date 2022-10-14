@@ -1,3 +1,48 @@
+
+
+
+body {
+  font-family: Garamond, serif;
+  font-size: 30px    
+  background: #6495ED 
+    color: #EFF1F5 ; /* Цвет текста */
+   }
+
+
+h1 {
+  color: #EFF1F5;
+  background-color: ;
+  border: 2px solid black;
+  font-size: 50px
+}
+
+ul {
+  color: (239,241,245);
+  font-size: 40px;
+}
+
+
+ul.nav a {
+  color: #EFF1F5 !important;
+}
+
+navbar {
+  color: #EFF1F5;
+  font-family: Garamond, serif;
+  font-size: 30px
+}
+
+p {
+    font-size: 25px;
+}
+
+nav {
+  color: #EFF1F5;
+  font-family: Garamond, serif;
+  font-size: 30px
+}
+
+
 .rectangle {
 counter-reset: li; 
 list-style: none; 
@@ -42,46 +87,4 @@ transition: all .3s ease-out;
 .rectangle a:hover:after {
 left: -.5em;
 border-left-color: #9097A2;
-}
-
-
-body {
-  font-family: Garamond, serif;
-  font-size: 30px    
-  background: #6495ED 
-    color: #EFF1F5 ; /* Цвет текста */
-   }
-
-
-h1 {
-  color: #EFF1F5;
-  background-color: ;
-  border: 2px solid black;
-  font-size: 50px
-}
-
-ul {
-  color: (239,241,245);
-  font-size: 40px;
-}
-
-
-ul.nav a {
-  color: #EFF1F5 !important;
-}
-
-navbar {
-  color: #EFF1F5;
-  font-family: Garamond, serif;
-  font-size: 30px
-}
-
-p {
-    font-size: 25px;
-}
-
-nav {
-  color: #EFF1F5;
-  font-family: Garamond, serif;
-  font-size: 30px
 }
